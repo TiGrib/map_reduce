@@ -1,0 +1,1 @@
+## Simple tasks with map-reduce algorithm 
